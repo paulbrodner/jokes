@@ -59,7 +59,8 @@ $ git flow feature start feature_name
 
 # stop a new feature
 
-$ git flow feature finish feature_name
+$ git flow feature publish feature_name
+# now on github create a new pull request
 ```
 
 #### Releases
