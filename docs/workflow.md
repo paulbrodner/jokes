@@ -21,9 +21,9 @@ brew install git-flow
 | master  | release  | stores the official release history  |complemented initially with develoment branch |n/a|
 | develop  | next release  | integration branch for features |
 | feature/*| feature branches | related to new features | latest develop | develop|
-| release/*| release branches forked from development branch | develop| master & develop |
-| hotfix/*| quickly patch production releases |master| master & develop |
-| support/*| support branches |
+| release/*| prepare releases |release branches forked from development branch | develop| master & develop |
+| hotfix/*| patches | quickly patch production releases |master| master & develop |
+
 
 
 **Advatages:**
