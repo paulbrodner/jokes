@@ -1,0 +1,10 @@
+insert into joke values(1,'Q: What did the DBA say to the Developer? A: It doesn’t matter, he wasn’t listening anyway.');
+insert into joke values(2,'The first computer dates back to Adam and Eve. It was an Apple with limited memory, just one byte. And then everything crashed.');
+insert into joke values(3,'I changed my password to "incorrect". So whenever I forget what it is the computer will say "Your password is incorrect".');
+insert into joke values(4,'Q: What do you call the security outside of a Samsung Store? A: Guardians of the Galaxy.');
+insert into joke values(5,'A clean house is the sign of a broken computer.');
+insert into joke values(6,'Moses had the first tablet that could connect to the cloud.');
+insert into joke values(7,'When I was a boy, I had a disease that required me to eat dirt three times a day in order to survive... It is a good thing my older brother told me about it.');
+insert into joke values(8,'My girlfriend told me she was leaving me because I keep pretending to be a Transformer. I said, "No, wait! I can change."');
+insert into joke values(9,'Most people are shocked when they find out how bad I am as an electrician');
+insert into joke values(10,'I hate people who use big words just to make themselves look perspicacious.');
